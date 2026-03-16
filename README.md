@@ -1,0 +1,2 @@
+# my_second_repository
+練習のための2番目のリポジトリ
